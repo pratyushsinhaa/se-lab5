@@ -1,0 +1,10 @@
+inventory_system.py:8:1: E302 expected 2 blank lines, found 1
+inventory_system.py:28:1: E302 expected 2 blank lines, found 1
+inventory_system.py:40:1: E302 expected 2 blank lines, found 1
+inventory_system.py:43:1: E302 expected 2 blank lines, found 1
+inventory_system.py:49:1: E302 expected 2 blank lines, found 1
+inventory_system.py:54:1: E302 expected 2 blank lines, found 1
+inventory_system.py:59:1: E302 expected 2 blank lines, found 1
+inventory_system.py:66:1: E302 expected 2 blank lines, found 1
+inventory_system.py:81:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory_system.py:82:11: W292 no newline at end of file
